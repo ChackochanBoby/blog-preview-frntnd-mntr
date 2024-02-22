@@ -102,3 +102,6 @@ a{
 h1 a:active{
     color: var(--Yellow);
 }
+h1 a:visited {
+  color: var(--black);
+}
