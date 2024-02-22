@@ -99,6 +99,6 @@ img{
 a{
     text-decoration: none;
 }
-a:active{
+.container a:active{
     color: var(--Yellow);
 }
